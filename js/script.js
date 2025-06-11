@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const typed = new Typed(".multiple-text", {
     strings: [
       "CS Student",
-      "Aspiring Security Analyst",
+      "Aspiring Pentester",
       "Cybersecurity Enthusiast",
     ],
     typeSpeed: 100,
